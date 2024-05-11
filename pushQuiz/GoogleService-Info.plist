@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCjGV6CtZb-auvyJwu-6O0-vSJiY649xQc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>73367622597</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Swift-Beginners-app.pushQuiz</string>
+	<key>PROJECT_ID</key>
+	<string>pushquiz-3a897</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushquiz-3a897.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:73367622597:ios:a554620bf0459874b5f1ac</string>
+</dict>
+</plist>
